@@ -1,0 +1,14 @@
+{
+  "Slope One": "Slope one is an algorithm used for recommender systems. Slope one is arguably the simplest form of non-trivial item-based collaborative filtering based on ratings.",
+  "Complexity": {
+    "time": "m*n^2 (where m is the number of users and n is the number of items)",
+    "space": "n^2 (this implementation) and n*(n-1)/2 (ideal)"
+  },
+  "References": [
+    "<a href='http://guidetodatamining.com/assets/guideChapters/DataMining-ch3.pdf'>A Programmer's Guide to Data Mining (ch 3) that explains Slope One</a>",
+    "<a href='https://en.wikipedia.org/wiki/Slope_One'>Wikipedia</a>"
+  ],
+  "files": {
+    "datamining": "Slope one using data from the example in A Programmer's Guide to Data Mining"
+  }
+}

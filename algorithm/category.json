@@ -45,7 +45,8 @@
   "etc": {
     "name": "Uncategorized",
     "list": {
-      "dp": "Dynamic Programming"
+      "dp": "Dynamic Programming",
+      "slope_one": "Slope One"
     }
   }
 }
